@@ -1,0 +1,14 @@
+.carousel-indicators{
+  bottom: 0;
+}
+.carousel-indicators .active{
+  background-color: black;
+}
+.carousel-indicators li {
+  background: blue;
+}
+
+.carousel-slide div {
+  height: 1000px
+  width: 1000px
+}
